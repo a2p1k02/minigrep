@@ -1,2 +1,2 @@
 # minigrep
-Rust way for C-like grep
+Rust way for linux grep
